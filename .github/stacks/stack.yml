@@ -1,6 +1,6 @@
 version: 0.1.0                                            
 
-name: Test Ruchika          
+name: Mona Ruchika          
 description: Test Ruchika      
 
 branding:                                              
@@ -48,4 +48,4 @@ configs:
           - releases/*
 
 init:
- uses: ".github/workflows/stack-init.yaml"
+ uses: "stack-init.yaml"
