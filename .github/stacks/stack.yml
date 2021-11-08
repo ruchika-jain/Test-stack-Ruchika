@@ -48,4 +48,4 @@ configs:
           - releases/*
 
 init:
- uses: "stack-init.yaml"
+ uses: ".github/workflows/stack-init.yaml"
